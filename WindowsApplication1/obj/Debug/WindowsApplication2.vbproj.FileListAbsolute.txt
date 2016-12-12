@@ -1,0 +1,2 @@
+c:\users\shibam kumar\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+G:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
